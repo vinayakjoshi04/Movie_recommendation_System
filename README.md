@@ -19,19 +19,28 @@ def recommend(movie):
     for i in movies_list:
         print(new_df.iloc[i[0]].title)
 
-recommend("Inception")
+recommend("Avatar")
 
 ```
 
 ### Output
-Interstellar
-The Prestige
-The Dark Knight
-Memento
-Batman Begins
-The Matrix
-Shutter Island
-The Imitation Game
-Edge of Tomorrow
-Minority Report
+Aliens vs Predator: Requiem
+
+Aliens
+
+Falcon Rising
+
+Independence Day
+
+Titan A.E.
+
+Battle: Los Angeles
+
+Predators
+
+Small Soldiers
+
+Meet Dave
+
+U.F.O.
 

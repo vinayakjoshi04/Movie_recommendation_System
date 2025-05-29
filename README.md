@@ -44,3 +44,8 @@ Meet Dave
 
 U.F.O.
 
+
+## 🙏 Acknowledgements
+
+This project was developed with guidance and inspiration from the [CampusX](https://github.com/campusx-official) tutorials. Special thanks to the open-source community for providing valuable resources and libraries.
+

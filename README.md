@@ -18,3 +18,20 @@ def recommend(movie):
     
     for i in movies_list:
         print(new_df.iloc[i[0]].title)
+
+recommend("Inception")
+
+```
+
+### Output
+Interstellar
+The Prestige
+The Dark Knight
+Memento
+Batman Begins
+The Matrix
+Shutter Island
+The Imitation Game
+Edge of Tomorrow
+Minority Report
+
